@@ -7,4 +7,5 @@
   -Snake Game<br>
   -Simple Interest Calculator<br>
   -Compound Interest Calculator<br>
-  -Christmas Wish
+  -Christmas Wish<br>
+Next up here is a 2048 game.
